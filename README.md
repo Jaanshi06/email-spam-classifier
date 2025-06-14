@@ -1,3 +1,5 @@
-This is my first project using machine learning and NLP techniques
-This is an Email Spam Classifier
+This is my first project using machine learning and Streamlit API
+<br>
+This is an Email or SMS Spam Classifier
+<br>
 Author-Jaanshi Bansal
